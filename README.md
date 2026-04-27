@@ -38,8 +38,9 @@ CORS enabled for flexible deployment
 Graceful disconnect handling — cleans up users and empty rooms automatically
 
 **Important Note**
-the current version is runinng in localhost,to share with everyone and chat you need to give your ip adrress
-this path you need to place ip address.
+
+The current version is runinng in localhost,to share with everyone and chat you need to give your ip address
+this path you need to place ip address of your system .
 
 **Stack**
 
